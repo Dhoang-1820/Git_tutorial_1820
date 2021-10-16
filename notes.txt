@@ -1,0 +1,7 @@
+1.Su dung git vs 1 remote repository va 1 local repository
+	- git clone + url: Copy 1 remote repository ve may
+	- vim + ten_file: tao va sua file
+		+ :wq : luu file
+		+ :q : thoat ra
+	- git add + ten_file: dong goi thong tin chuan bi commit
+	- git commit -m "comment": 
