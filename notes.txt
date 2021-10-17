@@ -9,4 +9,6 @@
 	- git checkout -b ten_branch: tao va chuyen con tro sang nhanh ten_branch de lam viec
 	- git status: xem trang thai & nhung thay doi
 	- git checkout + ten_branch: chuyen qua ten_branch de lam viec
-
+	- git add + ten_file -> git commit -m "comment"->git push
+	- git push --set-upstream origin ten_branch (features/ten): day code len github tu branch (se hien thi pull request tren github, main se co quyen merge review & merge vao remote repository)
+3. 	
