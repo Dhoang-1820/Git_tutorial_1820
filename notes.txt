@@ -1,0 +1,14 @@
+1. Su dung git vs 1 remote repository va 1 local repository
+	- git clone + url: copy 1 repository tu github ve may local
+	- git add + ten_file: them thong tin can commit
+	- git commit -m "message": dong goi thong tin chuan bi day len remote repository
+	- git push: day thong tin len remote repository
+	- git pull: lay thon tin ve may local
+	add -> commit -> push.
+2. Su dung git remote voi branch
+	- git checkout -b ten_branch: tao va chuyen con tro sang nhanh ten_branch de lam viec
+	- git status: xem trang thai & nhung thay doi
+	- git checkout + ten_branch: chuyen qua ten_branch de lam viec
+	- git add + ten_file -> git commit -m "comment"->git push
+	- git push --set-upstream origin ten_branch (features/ten): day code len github tu branch (se hien thi pull request tren github, main se co quyen merge review & merge vao remote repository)
+3.
